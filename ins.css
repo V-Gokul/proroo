@@ -1,0 +1,11 @@
+.one,.two{
+    height: 25%;
+    width: 15%;
+    background-color: aquamarine;
+    font-weight: bold;
+    margin: 0px;
+    padding-bottom: 20px;
+}
+.two{
+    padding-top: 20px;
+}
